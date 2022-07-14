@@ -1,0 +1,27 @@
+a{
+    text-decoration: none;
+    color: orange !important
+}
+h3{
+    text-align: center;
+}
+.submit{
+    margin-top: 1rem !important;
+}
+
+
+
+/* Sucess and error class */
+
+.sucess{
+    color: #fff;
+    padding: 5px;
+    margin: 5px 0 15px 0;
+    background: green;
+}
+.error{
+    color: #fff;
+    padding: 5px;
+    margin: 5px 0 15px 0;
+    background: red;
+}
